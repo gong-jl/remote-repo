@@ -1,0 +1,27 @@
+*.sip_xsb
+*.sip_xsd
+*siproj
+*.siwork
+*.sisc
+*.map
+*.crf
+*.hex
+*.d
+*.dep
+*.htm
+*.iex
+*.lnp
+*.sct
+*.lst
+*.Administrator
+*.ALG
+*.ALG _CYN
+*.bak
+*.ini
+Objects/*
+Listings/*
+
+
+
+
+
